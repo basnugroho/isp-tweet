@@ -1,0 +1,1 @@
+# python -m spacy convert ./tweet_with_place_ner_training.json .
